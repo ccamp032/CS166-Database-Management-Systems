@@ -1,0 +1,10 @@
+CREATE INDEX
+CREATE INDEX
+Query time for unclustered index: 80.976 ms
+: 28.198 ms
+ALTER TABLE
+CLUSTER
+ALTER TABLE
+CLUSTER
+Query time for clustered index: 56.413 ms
+: 31.601 ms
